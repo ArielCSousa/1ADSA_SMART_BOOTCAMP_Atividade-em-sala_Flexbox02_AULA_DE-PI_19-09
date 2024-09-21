@@ -1,3 +1,5 @@
+# ARQUIVOS DO REPOSITÓRIO SÃO A RESOLUÇÃO DESSA ATIVIDADE
+
 # Atividade 02  de Flexbox
 
 ## Exercícios:
